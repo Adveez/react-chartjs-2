@@ -3,8 +3,6 @@
   "version": "2.6.4",
   "description": "react-chartjs-2",
   "main": "src/index.js",
-  "module": "es/index.js",
-  "jsnext:main": "es/index.js",
   "author": "Jeremy Ayerst",
   "homepage": "https://github.com/jerairrest/react-chartjs-2",
   "repository": {
